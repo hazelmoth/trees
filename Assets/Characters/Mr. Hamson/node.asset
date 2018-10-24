@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7f1b18d574621c49ae56a9802db2af7, type: 3}
+  m_Name: node
+  m_EditorClassIdentifier: 
+  isExitDialogue: 0
+  dialogueText: Ay there, bud. Anuther mediocre woodcuttur fillin up the forests,
+    ay?
+  dialogueResponses:
+  - {fileID: 11400000, guid: a69192a88006e01429773f9d593aabcf, type: 2}
+  - {fileID: 11400000, guid: b0978e5191401104a89e601a4ef36d46, type: 2}
+  - {fileID: 11400000, guid: 714ef86dd47088344b673692927676be, type: 2}
